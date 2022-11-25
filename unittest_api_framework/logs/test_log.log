@@ -1,0 +1,6 @@
+2022-11-25 16:48:56,426 - my_test_logs - INFO - <module>:37 - 123
+2022-11-25 16:49:18,921 - my_test_logs - INFO - <module>:37 - 123
+2022-11-25 16:50:05,864 - my_test_logs - INFO - <module>:37 - 123
+2022-11-25 16:50:06,910 - my_test_logs - INFO - test_add_pet:37 - <Response [200]>
+2022-11-25 16:53:16,157 - my_test_logs - INFO - <module>:37 - 123
+2022-11-25 16:53:17,161 - my_test_logs - INFO - test_add_pet:37 - 200
